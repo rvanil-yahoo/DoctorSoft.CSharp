@@ -1,6 +1,6 @@
 # DoctorSoft 1.0
 
-DoctorSoft 1.0 was originally written in Visual Basic 6.0 in 200-2001. This project converts that from VB 6.0 to .NET 8.0 C# using github copilot. Most of the screens and functions are migrated.
+DoctorSoft 1.0 was originally written in Visual Basic 6.0 in 200-2001. This project converts that from VB 6.0 to .NET 8.0 C# using github copilot. Most of the screens and functions are migrated. It was marketed as a one box solution for managing a simple clinic with patient, appointments, prescriptions, and payments functions.
 
 ![Image](DoctorSoft.App/Assets/LegacyMenu/background.jpg)
 
