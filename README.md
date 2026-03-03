@@ -1,6 +1,10 @@
-# DoctorSoft.CSharp Scaffold
+# DoctorSoft 1.0
 
-This folder contains the new C# migration solution scaffold.
+DoctorSoft 1.0 was originally written in Visual Basic 6.0 in 200-2001. This project converts that from VB 6.0 to .NET 8.0 C# using github copilot. Most of the screens and functions are migrated.
+
+![Image](DoctorSoft.App/Assets/LegacyMenu/background.jpg)
+
+At that time it was simple forms with access db backing up completely running locally on windows 98 or xp.
 
 ## Solution
 - `DoctorSoft.sln`
