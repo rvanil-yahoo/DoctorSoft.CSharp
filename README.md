@@ -1,6 +1,8 @@
 # DoctorSoft 1.0
 
-DoctorSoft 1.0 was originally written in Visual Basic 6.0 in 200-2001. This project converts that from VB 6.0 to .NET 8.0 C# using github copilot. Most of the screens and functions are migrated. It was marketed as a one box solution for managing a simple clinic with patient, appointments, prescriptions, and payments functions.
+DoctorSoft is a desktop healthcare operations platform for running a clinic’s day-to-day work. It brings key functions into one system: patient records, appointments, prescriptions, referrals, billing, vouchers, and operational reporting. The application is built as a C# solution with a WinForms front end, backed by a separate domain layer for business rules, a reporting layer for output generation, and automated tests to protect core behavior.
+
+DoctorSoft 1.0 was originally written in Visual Basic 6.0 in 200-2001. This project converts that from VB 6.0 to .NET 8.0 C# using github copilot. Most of the screens and functions are migrated with key functionality intact and in legacy mode. It was marketed as a one box solution for managing a simple clinic with patient, appointments, prescriptions, and payments functions.
 
 ![Image](DoctorSoft.App/Assets/LegacyMenu/background.jpg)
 
