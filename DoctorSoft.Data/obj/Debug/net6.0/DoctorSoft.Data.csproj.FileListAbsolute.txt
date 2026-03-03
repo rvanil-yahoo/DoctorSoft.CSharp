@@ -1,0 +1,15 @@
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Debug\net6.0\DoctorSoft.Data.deps.json
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Debug\net6.0\DoctorSoft.Data.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Debug\net6.0\DoctorSoft.Data.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Debug\net6.0\DoctorSoft.Domain.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Debug\net6.0\DoctorSoft.Domain.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.csproj.AssemblyReference.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.AssemblyInfoInputs.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.AssemblyInfo.cs
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.csproj.CoreCompileInputs.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.csproj.CopyComplete
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\refint\DoctorSoft.Data.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\DoctorSoft.Data.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Debug\net6.0\ref\DoctorSoft.Data.dll

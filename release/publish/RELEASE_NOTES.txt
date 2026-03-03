@@ -1,0 +1,9 @@
+﻿DoctorSoft C# Release Publish
+Configuration: Release
+Runtime: win-x64
+Published: 2026-03-02 18:49:30
+
+Post-publish checks:
+1. Verify appsettings.json Database.MainDbPath points to production DB location.
+2. Verify App.LogDirectory and App.BackupDirectory paths are writable.
+3. Launch DoctorSoft.App.exe and confirm login + module shell opens.

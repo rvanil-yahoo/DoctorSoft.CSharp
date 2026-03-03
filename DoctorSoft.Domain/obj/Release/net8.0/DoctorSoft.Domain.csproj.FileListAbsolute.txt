@@ -1,0 +1,11 @@
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\bin\Release\net8.0\DoctorSoft.Domain.deps.json
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\bin\Release\net8.0\DoctorSoft.Domain.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\bin\Release\net8.0\DoctorSoft.Domain.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\DoctorSoft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\DoctorSoft.Domain.AssemblyInfoInputs.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\DoctorSoft.Domain.AssemblyInfo.cs
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\DoctorSoft.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\DoctorSoft.Domain.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\refint\DoctorSoft.Domain.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\DoctorSoft.Domain.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Domain\obj\Release\net8.0\ref\DoctorSoft.Domain.dll

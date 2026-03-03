@@ -1,0 +1,16 @@
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Release\net8.0-windows\MainDb.accdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Release\net8.0-windows\DoctorSoft.Data.deps.json
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Release\net8.0-windows\DoctorSoft.Data.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Release\net8.0-windows\DoctorSoft.Data.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Release\net8.0-windows\DoctorSoft.Domain.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\bin\Release\net8.0-windows\DoctorSoft.Domain.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSoft.Data.csproj.AssemblyReference.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSoft.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSoft.Data.AssemblyInfoInputs.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSoft.Data.AssemblyInfo.cs
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSoft.Data.csproj.CoreCompileInputs.cache
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSo.EA149A95.Up2Date
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSoft.Data.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\refint\DoctorSoft.Data.dll
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\DoctorSoft.Data.pdb
+D:\Projects\DoctorSoft\DoctorSoft.CSharp\DoctorSoft.Data\obj\Release\net8.0-windows\ref\DoctorSoft.Data.dll

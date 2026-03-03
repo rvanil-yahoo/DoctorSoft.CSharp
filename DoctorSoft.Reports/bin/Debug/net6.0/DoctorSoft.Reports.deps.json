@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoctorSoft.Reports/1.0.0": {
+        "dependencies": {
+          "DoctorSoft.Data": "1.0.0",
+          "DoctorSoft.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DoctorSoft.Reports.dll": {}
+        }
+      },
+      "DoctorSoft.Data/1.0.0": {
+        "dependencies": {
+          "DoctorSoft.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DoctorSoft.Data.dll": {}
+        }
+      },
+      "DoctorSoft.Domain/1.0.0": {
+        "runtime": {
+          "DoctorSoft.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorSoft.Reports/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorSoft.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorSoft.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

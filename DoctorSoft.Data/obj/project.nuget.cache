@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RNYoGFvrKyk=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DoctorSoft\\DoctorSoft.CSharp\\DoctorSoft.Data\\DoctorSoft.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\family\\.nuget\\packages\\system.data.odbc\\10.0.3\\system.data.odbc.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+Report,FilterMode,InputParameters,VB6RowCount,CSharpRowCount,VB6Total,CSharpTotal,Status,Notes
+Appointment,Date+Patient,,,,,,, 
+Appointment,DateCompletedOnly,,,,,,, 
+Appointment,All,,,,,,, 
+Payment,VoucherNo,,,,,,, 
+Payment,PaymentName,,,,,,, 
+Payment,DateRange,,,,,,, 
+Receipt,VoucherNo,,,,,,, 
+Receipt,LedgerName,,,,,,, 
+Receipt,DateRange,,,,,,, 
+ConsolidatedLedger,DateRange,,,,,,, 
+ConsolidatedLedger,Date+Ledger,,,,,,, 
